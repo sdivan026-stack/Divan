@@ -1,0 +1,6 @@
+{
+  "name": "બાંધકામ કેલ્ક્યુલેટર",
+  "description": "મકાન બાંધકામ મટિરિયલ અને લેબર બિલ કેલ્ક્યુલેટર - Building construction material, labor rate estimation & invoice generator for Gujarat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
